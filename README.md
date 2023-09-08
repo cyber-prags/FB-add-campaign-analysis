@@ -23,8 +23,17 @@ Using a dataset that encapsulates the metrics of various ad campaigns, I applied
 
 ## Visual Information
 
-![correlation](https://github.com/cyber-prags/FB-add-campaign-analysis/assets/74003758/6d0b6dc5-db56-4051-ab49-11814fc65e4e)
+1. ![correlation](https://github.com/cyber-prags/FB-add-campaign-analysis/assets/74003758/6d0b6dc5-db56-4051-ab49-11814fc65e4e)
+
 We see that Impressions and Total conversion is more correlated with Aprroved_conversion than Clicks or Spent.
+
+2. ![conversion_rate](https://github.com/cyber-prags/FB-add-campaign-analysis/assets/74003758/a689f47a-067c-4bcc-b169-9847622b9938)
+
+   We see that campaign 3 with campaign_id 1178 had the most number of ads
+
+3. ![age](https://github.com/cyber-prags/FB-add-campaign-analysis/assets/74003758/9ef499e2-859e-4cc2-81d3-1ae572584292)
+
+  We find the majority of the people are of the age group 30 - 34
 
 ## Key Findings:
 
